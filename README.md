@@ -1,6 +1,6 @@
 #README
 
-# Final-Project-Neural-style-transfer
+# Natural-Language-Processing-Project-Neural-style-transfer
 The deliverables of this project  include a Python script that  performs Neural Style Transfer,  a web-based interface for users  to input their own images and  generate artistic images, and a  report that explains the  approach taken to create the  model and provides examples  of the generated images.
 
 This code is used to generate artistic images using a neural algorithm. The code takes a target image and applies the style of another image onto it.
