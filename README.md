@@ -11,7 +11,7 @@ python
 tensorflow
 imageio
 numpy
-matplotli
+matplotlib
 scipy
 Installation
 All the required packages can be installed using pip command in the terminal:
